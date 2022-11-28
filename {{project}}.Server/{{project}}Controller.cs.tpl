@@ -1,7 +1,7 @@
 using JetBrains.Annotations;
-using NFive.SDK.Core.Diagnostics;
-using NFive.SDK.Server.Communications;
-using NFive.SDK.Server.Controllers;
+using Dark5.SDK.Core.Diagnostics;
+using Dark5.SDK.Server.Communications;
+using Dark5.SDK.Server.Controllers;
 using {{org}}.{{project}}.Shared;
 
 namespace {{org}}.{{project}}.Server
