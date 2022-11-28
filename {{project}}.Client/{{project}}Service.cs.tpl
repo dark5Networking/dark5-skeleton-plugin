@@ -1,13 +1,13 @@
 using System;
 using System.Threading.Tasks;
 using JetBrains.Annotations;
-using NFive.SDK.Client.Commands;
-using NFive.SDK.Client.Communications;
-using NFive.SDK.Client.Events;
-using NFive.SDK.Client.Interface;
-using NFive.SDK.Client.Services;
-using NFive.SDK.Core.Diagnostics;
-using NFive.SDK.Core.Models.Player;
+using Dark5.SDK.Client.Commands;
+using Dark5.SDK.Client.Communications;
+using Dark5.SDK.Client.Events;
+using Dark5.SDK.Client.Interface;
+using Dark5.SDK.Client.Services;
+using Dark5.SDK.Core.Diagnostics;
+using Dark5.SDK.Core.Models.Player;
 using {{org}}.{{project}}.Client.Overlays;{{ if shared }}
 using {{org}}.{{project}}.Shared;{{ end }}
 
