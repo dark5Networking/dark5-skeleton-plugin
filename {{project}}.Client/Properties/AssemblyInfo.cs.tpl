@@ -9,7 +9,7 @@ using Dark5.SDK.Client;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("{{orgorig}}")]
 [assembly: AssemblyProduct("{{orgorig}} {{projectorig}} Client Plugin")]
-[assembly: AssemblyCopyright("Copyright © {{orgorig}} {{date.now.year}}-{{date.next.year}}")]
+[assembly: AssemblyCopyright("Copyright © {{orgorig}} {{date.now.year}}")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 [assembly: ComVisible(false)]
